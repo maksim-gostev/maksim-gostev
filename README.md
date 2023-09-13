@@ -18,9 +18,6 @@ ___
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
-<h3>💻 Codewars:</h3>
-
-<img src="https://www.codewars.com/users/gostev-maksim/badges/large"/>
 
 <h3><b>Frameworks</b></h3>
   <a href="https://www.djangoproject.com/">
