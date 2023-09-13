@@ -18,6 +18,10 @@ ___
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
+<h3>💻 Codewars:</h3>
+
+<img src="https://www.codewars.com/users/gostev-maksim/badges/large"/>
+
 <h3><b>Frameworks</b></h3>
   <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
@@ -28,6 +32,9 @@ ___
   <a href="https://flask.palletsprojects.com/en/2.3.x/">
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   </a>
+ <a href="https://fastapi.tiangolo.com/">
+     <img src="https://img.shields.io/badge/fastapi-%23000.svg?style=for-the-badge&logo=flask&logoColor=white%22/">
+ </a>
 <h3><b>Database</b></h3>
   <a href="https://www.postgresql.org/docs/">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
